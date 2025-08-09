@@ -37,6 +37,7 @@ npm run dev
 
 
 # Screenshots (Add at least 3)
+(screenshot.jpeg)
 
 ## Team Contributions
 Karthik Viswanath- UI
