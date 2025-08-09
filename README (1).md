@@ -37,7 +37,7 @@ npm run dev
 
 
 # Screenshots (Add at least 3)
-(screenshot.jpeg)
+![My Logo](screenshot.jpeg)
 
 ## Team Contributions
 Karthik Viswanath- UI
